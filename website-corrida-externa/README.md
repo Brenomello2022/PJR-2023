@@ -2,7 +2,7 @@ MaterRace foi a primeira edição do evento de corrida de carrinhos, criado pela
 
 Esse evento foi realizado dia 22 de Junho de 2023.
 
-Este site foi criado por Alvaro Fatini com a ajuda do nosso Professor Giovani Fabris Marcarini.
+Este site foi criado por Alvaro Fatini, com a ajuda do nosso Professor Giovani Fabris Marcarini.
 
 Link do Github do Alvaro.
 https://github.com/fatini-alvaro/MaterRace
