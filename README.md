@@ -1,3 +1,3 @@
-Repositório da disciplina de Projeto Integrador - Róbotica Aplicada
+Repositório da disciplina de Projeto Integrador - Róbotica Aplicada 2023.
 
-Professor: Giovani Fabris Marcarini
+Professor: Giovani Fabris Marcarini.
